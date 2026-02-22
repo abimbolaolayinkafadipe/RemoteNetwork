@@ -51,5 +51,5 @@ This project highlights your ability to:
 All router/switch configurations and topology diagrams are included in the repository.
 
 ## 📫 Contact
-**LinkedIn:** (https://www.linkedin.com/in/abimbola-olayinka-fadipe)  
+**LinkedIn:** (https://www.linkedin.com/in/abimboladavid) 
 **Email:** (abimbolaolayinkafadipe@gmail.com)
