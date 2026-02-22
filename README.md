@@ -49,3 +49,7 @@ This project highlights your ability to:
 
 ## 📄 Documentation
 All router/switch configurations and topology diagrams are included in the repository.
+
+## 📫 Contact
+**LinkedIn:** (https://www.linkedin.com/in/abimbola-olayinka-fadipe)  
+**Email:** (abimbolaolayinkafadipe@gmail.com)
