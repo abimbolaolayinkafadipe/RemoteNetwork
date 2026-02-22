@@ -1,12 +1,12 @@
 # DHCP & Routing Infrastructure Project (Cisco Packet Tracer)
 
-## 🔍 Overview
+##  Overview
 This project focuses on building a functional network infrastructure with DHCP services, routing, and subnet planning.  
 It demonstrates practical networking skills essential for SOC analysts, network engineers, and security professionals.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Configure DHCP for multiple subnets  
 - Implement routing between networks  
 - Assign IP addressing schemes  
@@ -15,7 +15,7 @@ It demonstrates practical networking skills essential for SOC analysts, network 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Cisco Packet Tracer  
 - Cisco Routers & Switches  
 - DHCP  
@@ -24,7 +24,7 @@ It demonstrates practical networking skills essential for SOC analysts, network 
 
 ---
 
-## 🔐 Key Skills Demonstrated
+##  Key Skills Demonstrated
 - DHCP scope creation and management  
 - Router configuration for multi‑network communication  
 - Subnetting and IP planning  
@@ -33,12 +33,12 @@ It demonstrates practical networking skills essential for SOC analysts, network 
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 (Topology and CLI screenshots are available in the attached pdf file)
 
 ---
 
-## 🧠 What This Shows Recruiters
+##  What This Shows Recruiters
 This project highlights your ability to:
 - Build and configure real network infrastructure  
 - Understand how devices obtain IPs and communicate  
@@ -47,9 +47,9 @@ This project highlights your ability to:
 
 ---
 
-## 📄 Documentation
+##  Documentation
 All router/switch configurations and topology diagrams are included in the repository.
 
-## 📫 Contact
+##  Contact
 **LinkedIn:** (https://www.linkedin.com/in/abimboladavid) 
 **Email:** (abimbolaolayinkafadipe@gmail.com)
