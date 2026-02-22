@@ -34,7 +34,7 @@ It demonstrates practical networking skills essential for SOC analysts, network 
 ---
 
 ## 📸 Screenshots
-(Insert topology and CLI screenshots.)
+(Topology and CLI screenshots are available in the attached pdf file)
 
 ---
 
